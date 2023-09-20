@@ -81,6 +81,15 @@ Kotlin é uma linguagem de programação moderna e concisa que é compatível co
 
 Esses são apenas alguns conceitos básicos de Kotlin. A linguagem tem muitos recursos poderosos e uma sintaxe limpa que a torna atraente para desenvolvedores. Para aprender mais, você pode explorar tutoriais online, documentação oficial ou cursos online dedicados a Kotlin.
 
+**Exercício 0: Hello World**
+Enunciado: Imprima Hello World na tela.
+
+```kotlin
+fun main() {
+  println("Hello World")
+}
+```
+
 **Exercício 1: Soma de Dois Números**
 Enunciado: Crie uma função que recebe dois números como argumentos e retorna a soma deles.
 
